@@ -25,7 +25,7 @@ It is aimed to be used by beginners for penetration testing and professional pen
 
 **Penetration Test was applied on the website of Bilginer Certification Company.** 
 
-https://bilginerbelgelendirme.com/
+You can [click here](https://bilginerbelgelendirme.com/) for reach the website.
 
 ***According to scan result, ZAP found a total of 12 alarms on this website.***
 
