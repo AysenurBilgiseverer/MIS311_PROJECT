@@ -25,12 +25,15 @@ It is aimed to be used by beginners for penetration testing and professional pen
 
 **Penetration Test was applied on the website of Bilginer Certification Company.** 
 
-Website [ink] (ttps://bilginerbelgelendirme.com/)
+https://bilginerbelgelendirme.com/
 
-***According to scan result, ZAP found a total of 12 alarms on this website. 
-Eight of these alarms risk are low and their confidence are medium.
-One of these alarms risk is medium and its confidence is medium.
-The remaining 3 are due to some coding errors, etc., which have no risk that their risk define as informational and their confidence are low.***
+***According to scan result, ZAP found a total of 12 alarms on this website.***
+
+***Eight of these alarms risk are low and their confidence are medium.***
+
+***One of these alarms risk is medium and its confidence is medium.***
+
+***The remaining 3 are due to some coding errors, etc., which have no risk that their risk define as informational and their confidence are low.***
 
 #### Some Test Results
 1. **Alert name: X-Frame-Options Header Not Set**
